@@ -96,9 +96,7 @@ The tool will prompt you for a video file path. You can:
 deepfake-detecter/
 ├── deepfake_detector.py    # Main detection script
 ├── requirements.txt         # Python dependencies
-├── README.md               # This file
-├── TESTING_GUIDE.md        # Guide for testing the detector
-└── LICENSE                 # MIT License
+
 ```
 
 ---
