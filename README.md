@@ -316,12 +316,6 @@ By using this tool, you acknowledge that you understand its educational nature a
 
 ---
 
-<div align="center">
-
-### ⭐ If you found this project helpful, please consider giving it a star!
-
-**Made with 🧠 for learning and 💡 for awareness**
-
 ---
 
 **📊 Project Stats**
