@@ -1,8 +1,3 @@
-"""
-Deepfake Detector - Behavioral & Visual Analysis
-Multi-layered approach combining behavioral patterns and visual artifacts
-Educational proof-of-concept for deepfake detection research
-"""
 
 import cv2
 import numpy as np
@@ -537,4 +532,5 @@ ANALYSIS METHODS:
 
 
 if __name__ == "__main__":
+
     main()
